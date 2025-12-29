@@ -2,7 +2,7 @@
   <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </div>
 
-<h1 align="center">Guillermo Ahrens | Software Engineer & Tech Lead</h1>
+<h1 align="center">Guillermo Ahrens | Software Engineer</h1>
 
 <h3 align="center">Systems Engineer (UTN) specialized in architecting scalable backends and high-performance web applications. Expert in driving technical excellence and optimizing development lifecycles through AGILE methodologies.</h3>
 
