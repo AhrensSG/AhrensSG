@@ -1,27 +1,42 @@
-# Guillermo Ahrens · Backend Developer
+# Guillermo Ahrens · Desarrollador Full Stack
 
-Backend developer con experiencia real en producto: diseño, desarrollo y despliegue de APIs y arquitecturas de microservicios con **TypeScript · Node.js · NestJS** y bases de datos SQL/NoSQL.
+Desarrollador Full Stack en Valencia. Construyo producto completo con
+**TypeScript · Node.js/NestJS · React/Next.js**: backend, frontend, base de datos,
+testing y despliegue. Me enfoco en automatizar procesos de negocio y reducir costes.
 
-Construyo sistemas que se mantienen en el tiempo: modelado de dominio, testing (Jest, Supertest), seguridad (JWT, roles y control de acceso), contenedores (Docker, Nginx) y despliegues en cloud.
+- Reduje un **60%** los costes operativos con una firma electrónica propia.
+- Aumenté un **70%** la capacidad operativa automatizando pagos y reservas.
+- Coordino equipos con Scrum y monto CI/CD (GitHub Actions, Docker, Nginx).
 
 ## Stack
 
 | Área | Tecnologías |
 | --- | --- |
-| Backend | TypeScript, Node.js, NestJS, Express, GraphQL, API REST |
-| Frontend | React, Next.js, Tailwind, HTML, CSS |
+| Lenguajes | TypeScript, JavaScript, SQL |
+| Backend | Node.js, NestJS, Express, REST, GraphQL, Prisma |
+| Frontend | React, Next.js, Tailwind CSS, HTML, CSS |
 | Datos | PostgreSQL, MongoDB, modelado relacional |
-| Calidad y entrega | Jest, Supertest, testing unitario/de integración, Git, GitHub, Docker, Nginx |
+| Calidad | Jest, Supertest, testing unitario/integración, code review |
+| DevOps | Git, GitHub Actions (CI/CD), Docker, Nginx, PM2 |
+| Integraciones | Stripe, Redsys, Google Maps API |
+
+## Proyectos destacados
+
+- **FSA Salud** — gestión clínica con microservicios NestJS y GraphQL.
+- **GrupoStart** — grupos de compra con pagos, WhatsApp y Firebase.
+- **cobol-db2-demo** — DB2 / CICS / BMS (autoformación mainframe).
+- **gahrens-portfolio** — portfolio personal.
 
 ## Conectar
 
 - [LinkedIn](https://www.linkedin.com/in/guillermoahre-dev/)
 - [Portfolio](https://gahrens-portfolio.vercel.app)
+- guillermoahrens@gmail.com
 
 ## Formación
 
 - Técnico Superior en Programación — Universidad Tecnológica Nacional (UTN), Argentina
-- Full Stack Developer — Soy Henry (bootcamp)
+- Full Stack Developer — Soy Henry
 
 ---
-*Valencia, España · Disponible para oportunidades backend (remoto / híbrido)*
+*Valencia, España · Disponible para oportunidades Full Stack (remoto / híbrido)*
